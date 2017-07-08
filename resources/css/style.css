@@ -1,0 +1,10 @@
+/* Default Styles */
+
+html {
+    font-size: 18px;
+  }
+
+body {
+  font-family: Helvetica, cursive;
+  line-height: 1.4rem;
+}
